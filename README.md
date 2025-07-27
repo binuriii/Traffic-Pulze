@@ -5,6 +5,7 @@ Developed as part of the Software Development 1 coursework, this project focuses
 ⸻
 
 🧠 What the Program Does:
+
 	•	Prompts users to select a traffic dataset by entering a date
  
 	•	Processes the selected CSV file and extracts meaningful statistics
@@ -16,6 +17,7 @@ Developed as part of the Software Development 1 coursework, this project focuses
 ⸻
 
 🔍 Core Features:
+
 	•	Easy CSV file selection by date
  
 	•	Summarizes traffic behavior and flow
@@ -29,6 +31,7 @@ Developed as part of the Software Development 1 coursework, this project focuses
 ⸻
 
 🛠 Tech Stack:
+
 	•	Python for development
  
 	•	graphics.py for creating visualizations
@@ -39,6 +42,7 @@ Developed as part of the Software Development 1 coursework, this project focuses
 ⸻
 
 ▶️ Getting Started:
+
 	1.	Clone the repo
  
 	2.	Install dependencies
