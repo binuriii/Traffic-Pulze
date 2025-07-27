@@ -12,7 +12,7 @@ Developed as part of the Software Development 1 coursework, this project focuses
  
 	•	Generates a report in text format for easy sharing or archiving
  
-	•	Visualizes patterns in traffic using histograms via graphics.py
+	•	Visualizes patterns in traffic using histograms
 
 ⸻
 
@@ -34,7 +34,7 @@ Developed as part of the Software Development 1 coursework, this project focuses
 
 	•	Python for development
  
-	•	graphics.py for creating visualizations
+	•	creating visualizations
  
 	•	csv module to process traffic data
  
